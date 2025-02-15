@@ -30,3 +30,8 @@
 <ul>
 	<li><code>1 &lt;= n &lt;= 45</code></li>
 </ul>
+<pre>
+
+<hr>
+		
+<strong>SOLUTION USES FIBANOCCI SERIES</strong>
